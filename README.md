@@ -9,6 +9,7 @@ Resilient Gemini API client with automatic key and model fallback.
 - Exponential backoff retry
 - Circuit breaker for keys and models
 
+
 ## Quick Start
 
 ```bash
