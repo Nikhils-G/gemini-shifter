@@ -94,3 +94,7 @@ stats = shifter.get_stats()
 | 429 | Retry + shift model + penalize key |
 | 500, 503, 504 | Retry + shift model |
 | 400, 401, 403 | Fail immediately |
+
+
+Sincearly,
+Nikhil Sukthe
